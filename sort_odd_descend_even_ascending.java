@@ -8,7 +8,7 @@ sort the array by even num in descending odd at ascending with odd first and eve
 -->output
 [7, 5, 3, 1, 0, 2, 4]
 
-time complexity -> 0(n)
+time complexity -> 0(n^2)
 
  */
 import java.util.Arrays;
